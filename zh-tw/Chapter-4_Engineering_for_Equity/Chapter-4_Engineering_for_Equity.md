@@ -72,21 +72,21 @@ How could this happen? After all, Google hires technologists with impeccable edu
 
 這怎麼會發生呢？畢竟，Google 僱用的技術專家擁有無可挑剔的教育和/或專業經驗——卓越的程式設計師，他們編寫最好的程式碼並測試他們的功能。"為每個人而建 "是 Google 的品牌宣言，但事實是，在宣稱我們做到這一點之前，我們仍有很長的路要走。解決這些問題的方法之一是幫助軟體工程組織本身變得像我們為其建造產品的人群。
 
-> [^1]:
->     Google’s 2019 Diversity Report.
->     1 Google 的 2019 年多樣性報告。
+> [^1]: Google’s 2019 Diversity Report.
 >
-> [^2]:
->     @jackyalcine. 2015. “Google Photos, Y’all Fucked up. My Friend’s Not a Gorilla.” Twitter, June 29, 2015.https://twitter.com/jackyalcine/status/615329515909156865.
->     2 @jackyalcine. 2015. "Google 照片，你們都搞砸了。我的朋友不是大猩猩"。Twitter，2015 年 6 月 29 日。https://twitter.com/jackyalcine/status/615329515909156865
+> 1 Google 的 2019 年多樣性報告。
 >
-> [^3]:
->     Many reports in 2018–2019 pointed to a lack of diversity across tech. Some notables include the National Center for Women & Information Technology, and Diversity in Tech./
->     3 2018-2019 年的許多報告指出，整個科技界缺乏多樣性。一些著名的報告包括國家婦女和資訊科技中心，以及科技領域的多樣性。
+> [^2]: @jackyalcine. 2015. “Google Photos, Y’all Fucked up. My Friend’s Not a Gorilla.” Twitter, June 29, 2015. https://twitter.com/jackyalcine/status/615329515909156865.
 >
-> [^4]:
->     Tom Simonite, “When It Comes to Gorillas, Google Photos Remains Blind,” Wired, January 11, 2018.
->     4 Tom Simonite，"當涉及到大猩猩時，Google 照片仍然是盲目的，"《連線》，2018 年 1 月 11 日。
+> 2 @jackyalcine. 2015. "Google 照片，你們都搞砸了。我的朋友不是大猩猩"。Twitter，2015 年 6 月 29 日。https://twitter.com/jackyalcine/status/615329515909156865
+>
+> [^3]: Many reports in 2018–2019 pointed to a lack of diversity across tech. Some notables include the National Center for Women & Information Technology, and Diversity in Tech./
+>
+> 3 2018-2019 年的許多報告指出，整個科技界缺乏多樣性。一些著名的報告包括國家婦女和資訊科技中心，以及科技領域的多樣性。
+>
+> [^4]: Tom Simonite, “When It Comes to Gorillas, Google Photos Remains Blind,” Wired, January 11, 2018.
+>
+> 4 Tom Simonite，"當涉及到大猩猩時，Google 照片仍然是盲目的，"《連線》，2018 年 1 月 11 日。
 
 ## Understanding the Need for Diversity 瞭解多樣性的必要性
 
